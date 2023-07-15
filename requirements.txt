@@ -1,0 +1,4 @@
+alt-profanity-check
+openai
+guardrails-ai
+python-dotenv
